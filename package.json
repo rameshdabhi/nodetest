@@ -1,0 +1,17 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "billing benchmarks",
+  "main": "app.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine"
+  },
+  "author": "Ramesh Dabhi",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.6.2"
+  },
+  "devDependencies": {
+    "jasmine": "^2.3.1"
+  }
+}
