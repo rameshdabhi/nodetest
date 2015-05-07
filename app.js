@@ -87,6 +87,7 @@ function getHighestMonthOfYear(results,cb){
 		}
 	};
 
+	prevMonth = currMonth;
 	currMonthTotal = totalAmount;
 
 	//to display last month of december
